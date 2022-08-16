@@ -1,4 +1,4 @@
-public class App {
+public class tarea1 {
     public static void main(String[] args) throws Exception {
         int resultado;
         resultado = suma(1,2,3);
